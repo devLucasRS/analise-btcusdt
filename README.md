@@ -35,3 +35,4 @@ Este projeto foi desenvolvido para fins educacionais. Ele **não deve ser usado 
    ```bash
    git clone https://github.com/devLucasRS/analise-btcusdt.git
    cd analise-btcusdt
+   pip install schedule pandas python-binance ta
